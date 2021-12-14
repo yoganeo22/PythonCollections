@@ -5,3 +5,4 @@ Python related collections
 - Dictionary
 - Logging
 - Byte String
+- Enum
