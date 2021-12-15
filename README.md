@@ -6,3 +6,4 @@ Python related collections
 - Logging
 - Byte String
 - Enum
+- Sqlite Database
