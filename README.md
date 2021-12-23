@@ -7,3 +7,4 @@ Python related collections
 - Byte String
 - Enum
 - Sqlite Database
+- Sum2DArray
