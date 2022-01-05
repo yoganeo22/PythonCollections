@@ -9,3 +9,4 @@ Python related collections
 - Sqlite Database
 - Sum2DArray
 - Struct.Pack, Struct.Unpack
+- JsonEx
