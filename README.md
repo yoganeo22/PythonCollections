@@ -1,12 +1,7 @@
 # PythonCollections
-Python related collections
 
-# Functionality
-- Dictionary
-- Logging
-- Byte String
-- Enum
-- Sqlite Database
-- Sum2DArray
-- Struct.Pack, Struct.Unpack
-- JsonEx
+## Includes
+
+Folders: 
+- Keywords
+- Data Structures and Algorithms

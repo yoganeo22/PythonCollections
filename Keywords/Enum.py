@@ -20,6 +20,7 @@ class Processor:
             print("My Fruits: {}".format(FRUITS(num).name))
 
 
+
 if __name__ == "__main__":
     print("Showing Enum in python.")
 
